@@ -6,7 +6,7 @@
   ## Description
 
   This application is a workout tracker. You can add excercises and also see your activities. You can create multiple workouts and you can add as many exercises to the latest workout. The app also provides a stats dashboard where you can see all recent workouts.
-  Link of live app: [Live App]()
+  Link of live app: [Live App](https://jmd-workout-tracker.herokuapp.com/)
 
   ## Licensing
 
@@ -44,6 +44,10 @@ The user should be able to:
   ## Usage
 
   You can type npm run start to initiate the app.
+  
+  ## Tests
+
+  - [Full Video](https://watch.screencastify.com/v/KWRVrNtzAoxAingGo0ek)
 
   ## Tests
 
