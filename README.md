@@ -6,7 +6,7 @@
   ## Description
 
   This application is a workout tracker. You can add excercises and also see your activities. You can create multiple workouts and you can add as many exercises to the latest workout. The app also provides a stats dashboard where you can see all recent workouts.
-  Link of live app: [Live App](https://jmd-workout-tracker.herokuapp.com/)
+  Link of live app: [Live App](https://fitness-tracker-live.herokuapp.com/)
 
   ## Licensing
 
