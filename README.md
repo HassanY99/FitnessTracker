@@ -17,6 +17,7 @@
   - [Acceptance Criteria](#acceptance-criteria)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Tests](#tests)
   - [Contributing](#contributing)
   - [Questions](#questions)
 
@@ -43,6 +44,11 @@ The user should be able to:
   ## Usage
 
   You can type npm run start to initiate the app.
+
+  ## Tests
+
+  - [Full Video](https://watch.screencastify.com/v/KWRVrNtzAoxAingGo0ek)
+  
 
   ## Contributing
 
